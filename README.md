@@ -1,5 +1,5 @@
 # Troubleshooting and setup Linux OS on Lenovo Legion laptop:  
-OS: PopOS! 21.10 Nvidia
+OS: PopOS! 21.10 Nvidia  
 Laptop Model: Lenovo Legion 5 Pro Intel  
 
 ## Dual Boot setup alongside Windows
